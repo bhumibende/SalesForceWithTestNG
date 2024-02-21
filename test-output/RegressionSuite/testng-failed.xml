@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RegressionSuite]">
+  <listeners>
+    <listener class-name="com.bhumi.SampleMaven.utilities.FirebaseListenerUtility"/>
+  </listeners>
+  <test thread-count="5" name="RegressionTest(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="countryName" value="india"/>
+    <classes>
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC10a">
+        <methods>
+          <include name="setUpBeforeMethod"/>
+          <include name="verifyAccountTab"/>
+          <include name="tearDownAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC10a -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC26">
+        <methods>
+          <include name="setUpBeforeMethod"/>
+          <include name="createContactView"/>
+          <include name="tearDownAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC26 -->
+    </classes>
+  </test> <!-- RegressionTest(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->

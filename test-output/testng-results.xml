@@ -1,0 +1,4892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="37" passed="37">
+  <reporter-output>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in usernName textbox]]>
+    </line>
+    <line>
+      <![CDATA[UserName Field Verified]]>
+    </line>
+    <line>
+      <![CDATA[Password is cleared]]>
+    </line>
+    <line>
+      <![CDATA[UserName Field is clear Verified]]>
+    </line>
+    <line>
+      <![CDATA[LoginButton button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Error for blank password Verified]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[UserName entered on login page]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[Password entered on login page]]>
+    </line>
+    <line>
+      <![CDATA[Remember UserName checkbox button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Remember UserName Checkbox on login page checked]]>
+    </line>
+    <line>
+      <![CDATA[loginbutton button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfull]]>
+    </line>
+    <line>
+      <![CDATA[ text is extracted from UserName]]>
+    </line>
+    <line>
+      <![CDATA[Remember username verified post logout]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[SalesForce User Menu button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[SalesForce User Menu Drop Down options verified]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[SalesForce User Menu button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[SalesForce User Menu Drop Down options verified]]>
+    </line>
+    <line>
+      <![CDATA[My Profile Menu button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[My Profile Page displayed after clicking My Profile Menu]]>
+    </line>
+    <line>
+      <![CDATA[Edit button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Edit Profile  button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Edit Profile pop up displayed after clicking Edit Profile button]]>
+    </line>
+    <line>
+      <![CDATA[About Me button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[About Tab on Edit Profile pop up button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Last Name field is cleared]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Last Name Field textbox]]>
+    </line>
+    <line>
+      <![CDATA[Save on Edit Profile pop up button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ text is extracted from Last Name on My Profile page]]>
+    </line>
+    <line>
+      <![CDATA[Last Name updated from edit profile popup]]>
+    </line>
+    <line>
+      <![CDATA[Post Comment  button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Send Post Comment  button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Send Post Comment Text textbox]]>
+    </line>
+    <line>
+      <![CDATA[Share Post button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ text is extracted from Feed Text]]>
+    </line>
+    <line>
+      <![CDATA[Feed Text Verified]]>
+    </line>
+    <line>
+      <![CDATA[User File button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[User File Upload button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Upload File textbox]]>
+    </line>
+    <line>
+      <![CDATA[Share Post button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Uploaded File is Verified]]>
+    </line>
+    <line>
+      <![CDATA[Upload Photo button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Photo Path textbox]]>
+    </line>
+    <line>
+      <![CDATA[Save Photo Button button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[SalesForce User Menu button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[My Setting button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Settings Page Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Personal Menu button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login History button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login History Page Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Download Login History button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[File Download verified]]>
+    </line>
+    <line>
+      <![CDATA[Display Layout button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Customize tab button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce Chatter selected in Custom App dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Reports selected in Custom App tab dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Add button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Reports Tab Selected]]>
+    </line>
+    <line>
+      <![CDATA[Email tab button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[My Email Settings button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Email name is cleared]]>
+    </line>
+    <line>
+      <![CDATA[Email Id is cleared]]>
+    </line>
+    <line>
+      <![CDATA[Auto BCC button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Email Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Email id textbox]]>
+    </line>
+    <line>
+      <![CDATA[Auto BCC Yes button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Save confirmation on email setting verified]]>
+    </line>
+    <line>
+      <![CDATA[Calendar Reminder button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Activity Reminder button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Test reminder button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Reminder Screen Displayed]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[SalesForce User Menu button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Devleoper console button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Developer console opened as expected]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfull]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Account Tab button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Account page opened]]>
+    </line>
+    <line>
+      <![CDATA[New Account button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Account page opened]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Account Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Technology Partner selected in Account Type dropdown]]>
+    </line>
+    <line>
+      <![CDATA[High selected in Priority dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Account added]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[All Tabs button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Customize button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Accounts selected to be removed from  Salesforce menu]]>
+    </line>
+    <line>
+      <![CDATA[Remove Cutomize Menu button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Accounts selected to be added to Salesforce menu]]>
+    </line>
+    <line>
+      <![CDATA[Add Cutomize Menu button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Save Customize Menu button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Account_Tab added to Salesforce menu]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Account Tab button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Account page opened]]>
+    </line>
+    <line>
+      <![CDATA[New Accounts View button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Accounts View page opened]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in New View Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Unique View Name is cleared]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Unqieue View Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Account View Added]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Account Tab button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Account page opened]]>
+    </line>
+    <line>
+      <![CDATA[New Accounts View button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Accounts View page opened]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in New View Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Unique View Name is cleared]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Unqieue View Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Accounts View added]]>
+    </line>
+    <line>
+      <![CDATA[Edit View button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Edit Account View page opened]]>
+    </line>
+    <line>
+      <![CDATA[View Name is cleared]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in View Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Account Name selected in Account Name Filter dropdown]]>
+    </line>
+    <line>
+      <![CDATA[contains selected in Operator dropdown]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Filter Value textbox]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Accounts View Edited]]>
+    </line>
+    <line>
+      <![CDATA[Account view edited and filtered]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Account Tab button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Account page opened]]>
+    </line>
+    <line>
+      <![CDATA[Merge Account button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Merge My Account page opened]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Search textbox]]>
+    </line>
+    <line>
+      <![CDATA[Find Account button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Find Account button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Find Account button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Find Account button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Find Account button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Next button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Confirmation page to merge record displayed]]>
+    </line>
+    <line>
+      <![CDATA[Merge button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Merge Account displayed]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Account Tab button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Account page opened]]>
+    </line>
+    <line>
+      <![CDATA[Last Activity Link button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Unsaved Report page opened]]>
+    </line>
+    <line>
+      <![CDATA[Date Option button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Created Date Option button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Start Date textbox]]>
+    </line>
+    <line>
+      <![CDATA[End Date button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Today End Date button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ text is extracted from Report Name]]>
+    </line>
+    <line>
+      <![CDATA[Report Data Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Save Report button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Report Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Report Description button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Save Report button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ text is extracted from Saved Report]]>
+    </line>
+    <line>
+      <![CDATA[Report  Saved with correct name]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Opportunities page opened]]>
+    </line>
+    <line>
+      <![CDATA[Opportunity Drop Down options verified]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Opportunities page opened]]>
+    </line>
+    <line>
+      <![CDATA[New Opportunity button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Opportunity Page Opened]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Opportunity name textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Opportunity Account textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Opportunity Closed Date textbox]]>
+    </line>
+    <line>
+      <![CDATA[Proabablity is cleared]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Proabablity textbox]]>
+    </line>
+    <line>
+      <![CDATA[Prospecting selected in Stage dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Web selected in Lead Source dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ text is extracted from New Opportiunity]]>
+    </line>
+    <line>
+      <![CDATA[New Opportunity Verified]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Opportunities page opened]]>
+    </line>
+    <line>
+      <![CDATA[Opportunity Pipeline button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Opportunity Pipeline page opened]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Opportunities page opened]]>
+    </line>
+    <line>
+      <![CDATA[Stuck Opportunity button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Stuck Opportunities page opened]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Opportunities page opened]]>
+    </line>
+    <line>
+      <![CDATA[Current FQ selected in Interval dropdown]]>
+    </line>
+    <line>
+      <![CDATA[All Opportunities selected in Include dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Run Report button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Opportunities Report page opened]]>
+    </line>
+    <line>
+      <![CDATA[Opporunity Report opened with correct Range]]>
+    </line>
+    <line>
+      <![CDATA[Opporunity Report opened with correct status]]>
+    </line>
+    <line>
+      <![CDATA[Current FQ selected in Interval dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Open Opportunities selected in Include dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Run Report button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Opportunities Report page opened]]>
+    </line>
+    <line>
+      <![CDATA[Opporunity Report opened with correct Range]]>
+    </line>
+    <line>
+      <![CDATA[Opporunity Report opened with correct status]]>
+    </line>
+    <line>
+      <![CDATA[Next FQ selected in Interval dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Closed Opportunities selected in Include dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Run Report button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Opportunities Report page opened]]>
+    </line>
+    <line>
+      <![CDATA[Opporunity Report opened with correct Range]]>
+    </line>
+    <line>
+      <![CDATA[Opporunity Report opened with correct status]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Leads page opened]]>
+    </line>
+    <line>
+      <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfull]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Leads page opened]]>
+    </line>
+    <line>
+      <![CDATA[Leads view drop down options verified]]>
+    </line>
+    <line>
+      <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfull]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Leads page opened]]>
+    </line>
+    <line>
+      <![CDATA[My Unread Leads selected in Leads View dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Leads drop down selected]]>
+    </line>
+    <line>
+      <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[My Unread leads selected in view after login]]>
+    </line>
+    <line>
+      <![CDATA[Go button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[My Unread leads selected in view after login]]>
+    </line>
+    <line>
+      <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfull]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Leads page opened]]>
+    </line>
+    <line>
+      <![CDATA[Today's Leads selected in Leads View dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Leads drop down selected]]>
+    </line>
+    <line>
+      <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Go button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Today's Leads  selected in view after login]]>
+    </line>
+    <line>
+      <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfull]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Leads page opened]]>
+    </line>
+    <line>
+      <![CDATA[New Leads button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Leads page opened]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Last Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Company textbox]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ text is extracted from New lead value]]>
+    </line>
+    <line>
+      <![CDATA[New Leads added]]>
+    </line>
+    <line>
+      <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfull]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Contact page opened]]>
+    </line>
+    <line>
+      <![CDATA[New Contacts button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Contact page opened]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Last Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Account textbox]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ text is extracted from New Contact value]]>
+    </line>
+    <line>
+      <![CDATA[New Contact created]]>
+    </line>
+    <line>
+      <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfull]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[New Contact View button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Contact View page opened]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in New View Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Unique View Name is cleared]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Unqieue View Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Contact View Added]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Recently Created selected in Recent Contact dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Recent Contact drop down verified]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[My Contacts selected in Contact View dropdown]]>
+    </line>
+    <line>
+      <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Go button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[My Contacts View Added]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Recently Created selected in Recent Contact dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Recent Contact link button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Contact Details opened]]>
+    </line>
+    <line>
+      <![CDATA[ text is extracted from New Contact Value]]>
+    </line>
+    <line>
+      <![CDATA[Contact Details opened with correct details]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[New View button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Create New View opened]]>
+    </line>
+    <line>
+      <![CDATA[Unique view name is cleared]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in View Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ text is extracted from Error]]>
+    </line>
+    <line>
+      <![CDATA[Error for required field verified]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[New View button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Create New View opened]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in View Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Unique view name is cleared]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in View Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Cancel button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[View not added after clicking cancel button]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Contact page opened]]>
+    </line>
+    <line>
+      <![CDATA[New Contacts button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Contact page opened]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Last Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Account textbox]]>
+    </line>
+    <line>
+      <![CDATA[Save and New button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Contact page opened]]>
+    </line>
+    <line>
+      <![CDATA[Cancel button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ text is extracted from New Contact value]]>
+    </line>
+    <line>
+      <![CDATA[New Contact created]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Home page opened]]>
+    </line>
+    <line>
+      <![CDATA[ text is extracted from User Details]]>
+    </line>
+    <line>
+      <![CDATA[User Details displayed]]>
+    </line>
+    <line>
+      <![CDATA[User Detail Link button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[User Details page opened]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Home page opened]]>
+    </line>
+    <line>
+      <![CDATA[User Detail button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Edit Profile button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[About Tab button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Last Name is cleared]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Last Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Edited Name saved]]>
+    </line>
+    <line>
+      <![CDATA[Edited Name saved]]>
+    </line>
+    <line>
+      <![CDATA[Edit Profile button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[About tab button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Last Name is cleared]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Last Name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Home page opened]]>
+    </line>
+    <line>
+      <![CDATA[All Tabs button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Customize button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Accounts tab removed]]>
+    </line>
+    <line>
+      <![CDATA[All Tabs button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Customize button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Accounts selected to be added to Salesforce menu]]>
+    </line>
+    <line>
+      <![CDATA[Add Cutomize Menu button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Save Customize Menu button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Salesforce User Menu Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Account_Tab added to Salesforce menu]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Home page opened]]>
+    </line>
+    <line>
+      <![CDATA[Current Date on Home page verified]]>
+    </line>
+    <line>
+      <![CDATA[Page Date button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Calendar Page Opened]]>
+    </line>
+    <line>
+      <![CDATA[8 Pm Event button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Calendar New Event Page Opened]]>
+    </line>
+    <line>
+      <![CDATA[Subject Combo button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ComboBox Page Opened]]>
+    </line>
+    <line>
+      <![CDATA[Other Subject button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ComboBox subject popup closed as expected]]>
+    </line>
+    <line>
+      <![CDATA[Other selected as subject as expected]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in Subject textbox]]>
+    </line>
+    <line>
+      <![CDATA[End Time button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[drop down for time pick for end time displayed]]>
+    </line>
+    <line>
+      <![CDATA[9 PM Event button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[End time selected as 9:00 PM]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Calendar for bhumi pawde Page Opened]]>
+    </line>
+    <line>
+      <![CDATA[New Event Other for Calendar added]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+    <line>
+      <![CDATA[https://login.salesforce.comis entered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName & Password and login to salesforce]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[login button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Home page opened]]>
+    </line>
+    <line>
+      <![CDATA[Current Date on Home page verified]]>
+    </line>
+    <line>
+      <![CDATA[Page Date button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Calendar Page Opened]]>
+    </line>
+    <line>
+      <![CDATA[4 Pm Event button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Calendar New Event Page Opened]]>
+    </line>
+    <line>
+      <![CDATA[Subject Combo button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ComboBox Page Opened]]>
+    </line>
+    <line>
+      <![CDATA[Other Subject button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ComboBox subject popup closed as expected]]>
+    </line>
+    <line>
+      <![CDATA[Other selected as subject as expected]]>
+    </line>
+    <line>
+      <![CDATA[End Time button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[drop down for time pick for end time displayed]]>
+    </line>
+    <line>
+      <![CDATA[7 PM Event button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[End time selected as 7:00 PM]]>
+    </line>
+    <line>
+      <![CDATA[Recurrence button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Frequency section with radio buttons displayed]]>
+    </line>
+    <line>
+      <![CDATA[Recurrence start date field displayed]]>
+    </line>
+    <line>
+      <![CDATA[Recurrence end date field displayed]]>
+    </line>
+    <line>
+      <![CDATA[Weekly button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Recurs every field displayed]]>
+    </line>
+    <line>
+      <![CDATA[Recurs every field displayed with 1 as default]]>
+    </line>
+    <line>
+      <![CDATA[data is entered in recurrent end date textbox]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Calendar for bhumi pawde Page Opened]]>
+    </line>
+    <line>
+      <![CDATA[New Event Other for Calendar added]]>
+    </line>
+    <line>
+      <![CDATA[Monthly button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[New Event Other for Calendar in monthly view]]>
+    </line>
+    <line>
+      <![CDATA[NewEvent button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[View Series button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[NewEvent button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[browser instance closed]]>
+    </line>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="577078" started-at="2024-02-19T23:37:57 EST" finished-at="2024-02-19T23:47:34 EST">
+    <groups>
+    </groups>
+    <test name="RegressionTest" duration-ms="577078" started-at="2024-02-19T23:37:57 EST" finished-at="2024-02-19T23:47:34 EST">
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC21">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC21@4b741d6d]" name="setUpBeforeMethod" is-config="true" duration-ms="2052" started-at="2024-02-19T23:43:07 EST" finished-at="2024-02-19T23:43:09 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyLeadsViewDropDown()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC21@4b741d6d]" name="verifyLeadsViewDropDown" duration-ms="5409" started-at="2024-02-19T23:43:09 EST" finished-at="2024-02-19T23:43:14 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Leads page opened]]>
+            </line>
+            <line>
+              <![CDATA[Leads view drop down options verified]]>
+            </line>
+            <line>
+              <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLeadsViewDropDown -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC21@4b741d6d]" name="tearDownAfterTestMethod" is-config="true" duration-ms="593" started-at="2024-02-19T23:43:14 EST" finished-at="2024-02-19T23:43:15 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC21 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC20">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC20@15bb5034]" name="setUpBeforeMethod" is-config="true" duration-ms="2007" started-at="2024-02-19T23:43:00 EST" finished-at="2024-02-19T23:43:02 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyLeadsPage()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC20@15bb5034]" name="verifyLeadsPage" duration-ms="4042" started-at="2024-02-19T23:43:02 EST" finished-at="2024-02-19T23:43:06 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Leads page opened]]>
+            </line>
+            <line>
+              <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLeadsPage -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC20@15bb5034]" name="tearDownAfterTestMethod" is-config="true" duration-ms="599" started-at="2024-02-19T23:43:06 EST" finished-at="2024-02-19T23:43:07 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC20 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC09">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC09@11392934]" name="setUpBeforeMethod" is-config="true" duration-ms="2389" started-at="2024-02-19T23:39:36 EST" finished-at="2024-02-19T23:39:39 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyLogout()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC09@11392934]" name="verifyLogout" duration-ms="3490" started-at="2024-02-19T23:39:39 EST" finished-at="2024-02-19T23:39:42 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogout -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC09@11392934]" name="tearDownAfterTestMethod" is-config="true" duration-ms="605" started-at="2024-02-19T23:39:42 EST" finished-at="2024-02-19T23:39:43 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC09 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC08">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC08@6d4d66d2]" name="setUpBeforeMethod" is-config="true" duration-ms="1829" started-at="2024-02-19T23:39:19 EST" finished-at="2024-02-19T23:39:21 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyDevConsole()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC08@6d4d66d2]" name="verifyDevConsole" duration-ms="14844" started-at="2024-02-19T23:39:21 EST" finished-at="2024-02-19T23:39:36 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[SalesForce User Menu button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Devleoper console button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Developer console opened as expected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyDevConsole -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC08@6d4d66d2]" name="tearDownAfterTestMethod" is-config="true" duration-ms="685" started-at="2024-02-19T23:39:36 EST" finished-at="2024-02-19T23:39:36 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC08 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC25">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC25@2cf3d63b]" name="setUpBeforeMethod" is-config="true" duration-ms="2135" started-at="2024-02-19T23:43:53 EST" finished-at="2024-02-19T23:43:55 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="createNewContacts()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC25@2cf3d63b]" name="createNewContacts" duration-ms="5469" started-at="2024-02-19T23:43:55 EST" finished-at="2024-02-19T23:44:01 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Contact page opened]]>
+            </line>
+            <line>
+              <![CDATA[New Contacts button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Contact page opened]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Last Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Account textbox]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ text is extracted from New Contact value]]>
+            </line>
+            <line>
+              <![CDATA[New Contact created]]>
+            </line>
+            <line>
+              <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createNewContacts -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC25@2cf3d63b]" name="tearDownAfterTestMethod" is-config="true" duration-ms="606" started-at="2024-02-19T23:44:01 EST" finished-at="2024-02-19T23:44:01 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC25 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC03">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC03@644baf4a]" name="setUpBeforeMethod" is-config="true" duration-ms="2018" started-at="2024-02-19T23:38:12 EST" finished-at="2024-02-19T23:38:14 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="loginErrorMessage3()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC03@644baf4a]" name="loginErrorMessage3" duration-ms="4653" started-at="2024-02-19T23:38:14 EST" finished-at="2024-02-19T23:38:18 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[UserName entered on login page]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[Password entered on login page]]>
+            </line>
+            <line>
+              <![CDATA[Remember UserName checkbox button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Remember UserName Checkbox on login page checked]]>
+            </line>
+            <line>
+              <![CDATA[loginbutton button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Button Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfull]]>
+            </line>
+            <line>
+              <![CDATA[ text is extracted from UserName]]>
+            </line>
+            <line>
+              <![CDATA[Remember username verified post logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginErrorMessage3 -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC03@644baf4a]" name="tearDownAfterTestMethod" is-config="true" duration-ms="601" started-at="2024-02-19T23:38:18 EST" finished-at="2024-02-19T23:38:19 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC03 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC24">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC24@470734c3]" name="setUpBeforeMethod" is-config="true" duration-ms="2155" started-at="2024-02-19T23:43:43 EST" finished-at="2024-02-19T23:43:46 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="createNewLeads()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC24@470734c3]" name="createNewLeads" duration-ms="6876" started-at="2024-02-19T23:43:46 EST" finished-at="2024-02-19T23:43:52 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Leads page opened]]>
+            </line>
+            <line>
+              <![CDATA[New Leads button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Leads page opened]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Last Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Company textbox]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ text is extracted from New lead value]]>
+            </line>
+            <line>
+              <![CDATA[New Leads added]]>
+            </line>
+            <line>
+              <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createNewLeads -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC24@470734c3]" name="tearDownAfterTestMethod" is-config="true" duration-ms="613" started-at="2024-02-19T23:43:52 EST" finished-at="2024-02-19T23:43:53 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC24 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC02">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC02@26d9b808]" name="setUpBeforeMethod" is-config="true" duration-ms="5273" started-at="2024-02-19T23:38:01 EST" finished-at="2024-02-19T23:38:07 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="loginErrorMessage2()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC02@26d9b808]" name="loginErrorMessage2" duration-ms="4501" started-at="2024-02-19T23:38:07 EST" finished-at="2024-02-19T23:38:11 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginErrorMessage2 -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC02@26d9b808]" name="tearDownAfterTestMethod" is-config="true" duration-ms="610" started-at="2024-02-19T23:38:11 EST" finished-at="2024-02-19T23:38:12 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC02 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC23">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC23@8f2ef19]" name="setUpBeforeMethod" is-config="true" duration-ms="2284" started-at="2024-02-19T23:43:26 EST" finished-at="2024-02-19T23:43:28 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyTodaysList()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC23@8f2ef19]" name="verifyTodaysList" duration-ms="14149" started-at="2024-02-19T23:43:28 EST" finished-at="2024-02-19T23:43:43 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Leads page opened]]>
+            </line>
+            <line>
+              <![CDATA[Today's Leads selected in Leads View dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Leads drop down selected]]>
+            </line>
+            <line>
+              <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Go button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Today's Leads  selected in view after login]]>
+            </line>
+            <line>
+              <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTodaysList -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC23@8f2ef19]" name="tearDownAfterTestMethod" is-config="true" duration-ms="706" started-at="2024-02-19T23:43:43 EST" finished-at="2024-02-19T23:43:43 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC23 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC01">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC01@4a883b15]" name="setUpBeforeMethod" is-config="true" duration-ms="3126" started-at="2024-02-19T23:37:57 EST" finished-at="2024-02-19T23:38:00 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="loginErrorMessage1()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC01@4a883b15]" name="loginErrorMessage1" duration-ms="408" started-at="2024-02-19T23:38:00 EST" finished-at="2024-02-19T23:38:01 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in usernName textbox]]>
+            </line>
+            <line>
+              <![CDATA[UserName Field Verified]]>
+            </line>
+            <line>
+              <![CDATA[Password is cleared]]>
+            </line>
+            <line>
+              <![CDATA[UserName Field is clear Verified]]>
+            </line>
+            <line>
+              <![CDATA[LoginButton button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Error for blank password Verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginErrorMessage1 -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC01@4a883b15]" name="tearDownAfterTestMethod" is-config="true" duration-ms="620" started-at="2024-02-19T23:38:01 EST" finished-at="2024-02-19T23:38:01 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC01 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC22">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC22@2eae8e6e]" name="setUpBeforeMethod" is-config="true" duration-ms="2160" started-at="2024-02-19T23:43:15 EST" finished-at="2024-02-19T23:43:17 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyLeadsList()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC22@2eae8e6e]" name="verifyLeadsList" duration-ms="8836" started-at="2024-02-19T23:43:17 EST" finished-at="2024-02-19T23:43:26 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Leads page opened]]>
+            </line>
+            <line>
+              <![CDATA[My Unread Leads selected in Leads View dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Leads drop down selected]]>
+            </line>
+            <line>
+              <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[My Unread leads selected in view after login]]>
+            </line>
+            <line>
+              <![CDATA[Go button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[My Unread leads selected in view after login]]>
+            </line>
+            <line>
+              <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLeadsList -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC22@2eae8e6e]" name="tearDownAfterTestMethod" is-config="true" duration-ms="640" started-at="2024-02-19T23:43:26 EST" finished-at="2024-02-19T23:43:26 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC22 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC29">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC29@25ce9dc4]" name="setUpBeforeMethod" is-config="true" duration-ms="2134" started-at="2024-02-19T23:44:44 EST" finished-at="2024-02-19T23:44:46 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="getContactDetails()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC29@25ce9dc4]" name="getContactDetails" duration-ms="5531" started-at="2024-02-19T23:44:46 EST" finished-at="2024-02-19T23:44:52 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Recently Created selected in Recent Contact dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Recent Contact link button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Contact Details opened]]>
+            </line>
+            <line>
+              <![CDATA[ text is extracted from New Contact Value]]>
+            </line>
+            <line>
+              <![CDATA[Contact Details opened with correct details]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getContactDetails -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC29@25ce9dc4]" name="tearDownAfterTestMethod" is-config="true" duration-ms="603" started-at="2024-02-19T23:44:52 EST" finished-at="2024-02-19T23:44:53 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC29 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC07">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC07@54c5a2ff]" name="setUpBeforeMethod" is-config="true" duration-ms="2334" started-at="2024-02-19T23:38:51 EST" finished-at="2024-02-19T23:38:54 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyMySettings()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC07@54c5a2ff]" name="verifyMySettings" duration-ms="24618" started-at="2024-02-19T23:38:54 EST" finished-at="2024-02-19T23:39:18 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[SalesForce User Menu button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[My Setting button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Settings Page Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Personal Menu button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login History button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login History Page Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Download Login History button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[File Download verified]]>
+            </line>
+            <line>
+              <![CDATA[Display Layout button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Customize tab button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce Chatter selected in Custom App dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Reports selected in Custom App tab dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Add button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Reports Tab Selected]]>
+            </line>
+            <line>
+              <![CDATA[Email tab button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[My Email Settings button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Email name is cleared]]>
+            </line>
+            <line>
+              <![CDATA[Email Id is cleared]]>
+            </line>
+            <line>
+              <![CDATA[Auto BCC button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Email Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Email id textbox]]>
+            </line>
+            <line>
+              <![CDATA[Auto BCC Yes button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Save confirmation on email setting verified]]>
+            </line>
+            <line>
+              <![CDATA[Calendar Reminder button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Activity Reminder button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Test reminder button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Reminder Screen Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyMySettings -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC07@54c5a2ff]" name="tearDownAfterTestMethod" is-config="true" duration-ms="656" started-at="2024-02-19T23:39:18 EST" finished-at="2024-02-19T23:39:19 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC07 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC06">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC06@1ed4ae0f]" name="setUpBeforeMethod" is-config="true" duration-ms="2041" started-at="2024-02-19T23:38:26 EST" finished-at="2024-02-19T23:38:28 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyMyProfile()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC06@1ed4ae0f]" name="verifyMyProfile" duration-ms="23048" started-at="2024-02-19T23:38:28 EST" finished-at="2024-02-19T23:38:51 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[SalesForce User Menu button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[SalesForce User Menu Drop Down options verified]]>
+            </line>
+            <line>
+              <![CDATA[My Profile Menu button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[My Profile Page displayed after clicking My Profile Menu]]>
+            </line>
+            <line>
+              <![CDATA[Edit button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Edit Profile  button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Edit Profile pop up displayed after clicking Edit Profile button]]>
+            </line>
+            <line>
+              <![CDATA[About Me button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[About Tab on Edit Profile pop up button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Last Name field is cleared]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Last Name Field textbox]]>
+            </line>
+            <line>
+              <![CDATA[Save on Edit Profile pop up button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ text is extracted from Last Name on My Profile page]]>
+            </line>
+            <line>
+              <![CDATA[Last Name updated from edit profile popup]]>
+            </line>
+            <line>
+              <![CDATA[Post Comment  button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Send Post Comment  button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Send Post Comment Text textbox]]>
+            </line>
+            <line>
+              <![CDATA[Share Post button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ text is extracted from Feed Text]]>
+            </line>
+            <line>
+              <![CDATA[Feed Text Verified]]>
+            </line>
+            <line>
+              <![CDATA[User File button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[User File Upload button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Upload File textbox]]>
+            </line>
+            <line>
+              <![CDATA[Share Post button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Uploaded File is Verified]]>
+            </line>
+            <line>
+              <![CDATA[Upload Photo button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Photo Path textbox]]>
+            </line>
+            <line>
+              <![CDATA[Save Photo Button button is clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyMyProfile -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC06@1ed4ae0f]" name="tearDownAfterTestMethod" is-config="true" duration-ms="658" started-at="2024-02-19T23:38:51 EST" finished-at="2024-02-19T23:38:51 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC06 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC28">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC28@173ed316]" name="setUpBeforeMethod" is-config="true" duration-ms="1902" started-at="2024-02-19T23:44:28 EST" finished-at="2024-02-19T23:44:30 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyMyContacts()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC28@173ed316]" name="verifyMyContacts" duration-ms="13925" started-at="2024-02-19T23:44:30 EST" finished-at="2024-02-19T23:44:44 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[My Contacts selected in Contact View dropdown]]>
+            </line>
+            <line>
+              <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Go button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[My Contacts View Added]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyMyContacts -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC28@173ed316]" name="tearDownAfterTestMethod" is-config="true" duration-ms="625" started-at="2024-02-19T23:44:44 EST" finished-at="2024-02-19T23:44:44 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC28 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC05">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC05@7526515b]" name="setUpBeforeMethod" is-config="true" duration-ms="2207" started-at="2024-02-19T23:38:19 EST" finished-at="2024-02-19T23:38:21 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifySalesforceUserMenu()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC05@7526515b]" name="verifySalesforceUserMenu" duration-ms="3624" started-at="2024-02-19T23:38:21 EST" finished-at="2024-02-19T23:38:25 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[SalesForce User Menu button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[SalesForce User Menu Drop Down options verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySalesforceUserMenu -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC05@7526515b]" name="tearDownAfterTestMethod" is-config="true" duration-ms="614" started-at="2024-02-19T23:38:25 EST" finished-at="2024-02-19T23:38:26 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC05 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC27">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC27@69e153c5]" name="setUpBeforeMethod" is-config="true" duration-ms="2139" started-at="2024-02-19T23:44:18 EST" finished-at="2024-02-19T23:44:21 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyRecentContactDropDown()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC27@69e153c5]" name="verifyRecentContactDropDown" duration-ms="6595" started-at="2024-02-19T23:44:21 EST" finished-at="2024-02-19T23:44:27 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Recently Created selected in Recent Contact dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Recent Contact drop down verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyRecentContactDropDown -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC27@69e153c5]" name="tearDownAfterTestMethod" is-config="true" duration-ms="624" started-at="2024-02-19T23:44:27 EST" finished-at="2024-02-19T23:44:28 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC27 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC26">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC26@7674f035]" name="setUpBeforeMethod" is-config="true" duration-ms="2520" started-at="2024-02-19T23:44:01 EST" finished-at="2024-02-19T23:44:04 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="createContactView()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC26@7674f035]" name="createContactView" duration-ms="14026" started-at="2024-02-19T23:44:04 EST" finished-at="2024-02-19T23:44:18 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[New Contact View button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Contact View page opened]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in New View Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Unique View Name is cleared]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Unqieue View Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Contact View Added]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactView -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC26@7674f035]" name="tearDownAfterTestMethod" is-config="true" duration-ms="689" started-at="2024-02-19T23:44:18 EST" finished-at="2024-02-19T23:44:18 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC26 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC10">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC10@6892b3b6]" name="setUpBeforeMethod" is-config="true" duration-ms="2476" started-at="2024-02-19T23:39:43 EST" finished-at="2024-02-19T23:39:45 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="createAccount()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC10@6892b3b6]" name="createAccount" duration-ms="6546" started-at="2024-02-19T23:39:45 EST" finished-at="2024-02-19T23:39:52 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Account Tab button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Account page opened]]>
+            </line>
+            <line>
+              <![CDATA[New Account button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Account page opened]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Account Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Technology Partner selected in Account Type dropdown]]>
+            </line>
+            <line>
+              <![CDATA[High selected in Priority dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Account added]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC10@6892b3b6]" name="tearDownAfterTestMethod" is-config="true" duration-ms="603" started-at="2024-02-19T23:39:52 EST" finished-at="2024-02-19T23:39:52 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC10 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC32">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC32@76b1e9b8]" name="setUpBeforeMethod" is-config="true" duration-ms="2034" started-at="2024-02-19T23:45:07 EST" finished-at="2024-02-19T23:45:09 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyNewContactsaveandnew()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC32@76b1e9b8]" name="verifyNewContactsaveandnew" duration-ms="7243" started-at="2024-02-19T23:45:09 EST" finished-at="2024-02-19T23:45:16 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Contact page opened]]>
+            </line>
+            <line>
+              <![CDATA[New Contacts button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Contact page opened]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Last Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Account textbox]]>
+            </line>
+            <line>
+              <![CDATA[Save and New button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Contact page opened]]>
+            </line>
+            <line>
+              <![CDATA[Cancel button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ text is extracted from New Contact value]]>
+            </line>
+            <line>
+              <![CDATA[New Contact created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyNewContactsaveandnew -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC32@76b1e9b8]" name="tearDownAfterTestMethod" is-config="true" duration-ms="616" started-at="2024-02-19T23:45:16 EST" finished-at="2024-02-19T23:45:17 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC32 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC31">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC31@17f62e33]" name="setUpBeforeMethod" is-config="true" duration-ms="2214" started-at="2024-02-19T23:45:00 EST" finished-at="2024-02-19T23:45:02 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="CancelNewContact()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC31@17f62e33]" name="CancelNewContact" duration-ms="4403" started-at="2024-02-19T23:45:02 EST" finished-at="2024-02-19T23:45:07 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[New View button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Create New View opened]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in View Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Unique view name is cleared]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in View Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Cancel button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[View not added after clicking cancel button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CancelNewContact -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC31@17f62e33]" name="tearDownAfterTestMethod" is-config="true" duration-ms="619" started-at="2024-02-19T23:45:07 EST" finished-at="2024-02-19T23:45:07 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC31 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC30">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC30@74ea2410]" name="setUpBeforeMethod" is-config="true" duration-ms="2233" started-at="2024-02-19T23:44:53 EST" finished-at="2024-02-19T23:44:55 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyNewContactRequiredFieldError()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC30@74ea2410]" name="verifyNewContactRequiredFieldError" duration-ms="4540" started-at="2024-02-19T23:44:55 EST" finished-at="2024-02-19T23:44:59 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[New View button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Create New View opened]]>
+            </line>
+            <line>
+              <![CDATA[Unique view name is cleared]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in View Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ text is extracted from Error]]>
+            </line>
+            <line>
+              <![CDATA[Error for required field verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyNewContactRequiredFieldError -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC30@74ea2410]" name="tearDownAfterTestMethod" is-config="true" duration-ms="624" started-at="2024-02-19T23:44:59 EST" finished-at="2024-02-19T23:45:00 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC30 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC19">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC19@7d0b7e3c]" name="setUpBeforeMethod" is-config="true" duration-ms="2210" started-at="2024-02-19T23:42:51 EST" finished-at="2024-02-19T23:42:54 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyOpportunityReport()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC19@7d0b7e3c]" name="verifyOpportunityReport" duration-ms="5726" started-at="2024-02-19T23:42:54 EST" finished-at="2024-02-19T23:42:59 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Opportunities page opened]]>
+            </line>
+            <line>
+              <![CDATA[Current FQ selected in Interval dropdown]]>
+            </line>
+            <line>
+              <![CDATA[All Opportunities selected in Include dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Run Report button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Opportunities Report page opened]]>
+            </line>
+            <line>
+              <![CDATA[Opporunity Report opened with correct Range]]>
+            </line>
+            <line>
+              <![CDATA[Opporunity Report opened with correct status]]>
+            </line>
+            <line>
+              <![CDATA[Current FQ selected in Interval dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Open Opportunities selected in Include dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Run Report button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Opportunities Report page opened]]>
+            </line>
+            <line>
+              <![CDATA[Opporunity Report opened with correct Range]]>
+            </line>
+            <line>
+              <![CDATA[Opporunity Report opened with correct status]]>
+            </line>
+            <line>
+              <![CDATA[Next FQ selected in Interval dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Closed Opportunities selected in Include dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Run Report button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Opportunities Report page opened]]>
+            </line>
+            <line>
+              <![CDATA[Opporunity Report opened with correct Range]]>
+            </line>
+            <line>
+              <![CDATA[Opporunity Report opened with correct status]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyOpportunityReport -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC19@7d0b7e3c]" name="tearDownAfterTestMethod" is-config="true" duration-ms="627" started-at="2024-02-19T23:42:59 EST" finished-at="2024-02-19T23:43:00 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC19 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC10a">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC10a@6e6f2380]" name="setUpBeforeMethod" is-config="true" duration-ms="2230" started-at="2024-02-19T23:39:52 EST" finished-at="2024-02-19T23:39:55 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyAccountTab()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC10a@6e6f2380]" name="verifyAccountTab" duration-ms="42355" started-at="2024-02-19T23:39:55 EST" finished-at="2024-02-19T23:40:37 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[All Tabs button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Customize button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Accounts selected to be removed from  Salesforce menu]]>
+            </line>
+            <line>
+              <![CDATA[Remove Cutomize Menu button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Accounts selected to be added to Salesforce menu]]>
+            </line>
+            <line>
+              <![CDATA[Add Cutomize Menu button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Save Customize Menu button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Account_Tab added to Salesforce menu]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAccountTab -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC10a@6e6f2380]" name="tearDownAfterTestMethod" is-config="true" duration-ms="621" started-at="2024-02-19T23:40:37 EST" finished-at="2024-02-19T23:40:38 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC10a -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC14">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC14@449a4f23]" name="setUpBeforeMethod" is-config="true" duration-ms="2136" started-at="2024-02-19T23:41:28 EST" finished-at="2024-02-19T23:41:30 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="CreateAccountsReport()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC14@449a4f23]" name="CreateAccountsReport" duration-ms="40043" started-at="2024-02-19T23:41:30 EST" finished-at="2024-02-19T23:42:10 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Account Tab button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Account page opened]]>
+            </line>
+            <line>
+              <![CDATA[Last Activity Link button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Unsaved Report page opened]]>
+            </line>
+            <line>
+              <![CDATA[Date Option button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Created Date Option button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Start Date textbox]]>
+            </line>
+            <line>
+              <![CDATA[End Date button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Today End Date button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ text is extracted from Report Name]]>
+            </line>
+            <line>
+              <![CDATA[Report Data Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Save Report button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Report Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Report Description button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Save Report button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ text is extracted from Saved Report]]>
+            </line>
+            <line>
+              <![CDATA[Report  Saved with correct name]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateAccountsReport -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC14@449a4f23]" name="tearDownAfterTestMethod" is-config="true" duration-ms="631" started-at="2024-02-19T23:42:10 EST" finished-at="2024-02-19T23:42:11 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC14 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC36">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC36@5d0bf09b]" name="setUpBeforeMethod" is-config="true" duration-ms="2092" started-at="2024-02-19T23:46:29 EST" finished-at="2024-02-19T23:46:31 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyCalendarEventBlock()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC36@5d0bf09b]" name="verifyCalendarEventBlock" duration-ms="19021" started-at="2024-02-19T23:46:31 EST" finished-at="2024-02-19T23:46:50 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Home page opened]]>
+            </line>
+            <line>
+              <![CDATA[Current Date on Home page verified]]>
+            </line>
+            <line>
+              <![CDATA[Page Date button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Calendar Page Opened]]>
+            </line>
+            <line>
+              <![CDATA[8 Pm Event button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Calendar New Event Page Opened]]>
+            </line>
+            <line>
+              <![CDATA[Subject Combo button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ComboBox Page Opened]]>
+            </line>
+            <line>
+              <![CDATA[Other Subject button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ComboBox subject popup closed as expected]]>
+            </line>
+            <line>
+              <![CDATA[Other selected as subject as expected]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Subject textbox]]>
+            </line>
+            <line>
+              <![CDATA[End Time button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[drop down for time pick for end time displayed]]>
+            </line>
+            <line>
+              <![CDATA[9 PM Event button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[End time selected as 9:00 PM]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Calendar for bhumi pawde Page Opened]]>
+            </line>
+            <line>
+              <![CDATA[New Event Other for Calendar added]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyCalendarEventBlock -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC36@5d0bf09b]" name="tearDownAfterTestMethod" is-config="true" duration-ms="568" started-at="2024-02-19T23:46:50 EST" finished-at="2024-02-19T23:46:51 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC36 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC13">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC13@53fe15ff]" name="setUpBeforeMethod" is-config="true" duration-ms="2273" started-at="2024-02-19T23:41:11 EST" finished-at="2024-02-19T23:41:13 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="MergeAccounts()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC13@53fe15ff]" name="MergeAccounts" duration-ms="15212" started-at="2024-02-19T23:41:13 EST" finished-at="2024-02-19T23:41:28 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Account Tab button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Account page opened]]>
+            </line>
+            <line>
+              <![CDATA[Merge Account button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Merge My Account page opened]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Search textbox]]>
+            </line>
+            <line>
+              <![CDATA[Find Account button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Find Account button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Find Account button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Find Account button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Find Account button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Next button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Confirmation page to merge record displayed]]>
+            </line>
+            <line>
+              <![CDATA[Merge button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Merge Account displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MergeAccounts -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC13@53fe15ff]" name="tearDownAfterTestMethod" is-config="true" duration-ms="0" started-at="2024-02-19T23:41:28 EST" finished-at="2024-02-19T23:41:28 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC13 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC35">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC35@248e319b]" name="setUpBeforeMethod" is-config="true" duration-ms="2097" started-at="2024-02-19T23:45:38 EST" finished-at="2024-02-19T23:45:41 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyTabCustomize()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC35@248e319b]" name="verifyTabCustomize" duration-ms="47682" started-at="2024-02-19T23:45:41 EST" finished-at="2024-02-19T23:46:28 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Home page opened]]>
+            </line>
+            <line>
+              <![CDATA[All Tabs button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Customize button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Accounts tab removed]]>
+            </line>
+            <line>
+              <![CDATA[All Tabs button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Customize button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Accounts selected to be added to Salesforce menu]]>
+            </line>
+            <line>
+              <![CDATA[Add Cutomize Menu button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Save Customize Menu button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[User Menu on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Salesforce User Menu Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Logout on Salesforce HomePage button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Account_Tab added to Salesforce menu]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTabCustomize -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC35@248e319b]" name="tearDownAfterTestMethod" is-config="true" duration-ms="657" started-at="2024-02-19T23:46:28 EST" finished-at="2024-02-19T23:46:29 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC35 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC34">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC34@2af004b]" name="setUpBeforeMethod" is-config="true" duration-ms="2177" started-at="2024-02-19T23:45:26 EST" finished-at="2024-02-19T23:45:29 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyHomeLastNameEdit()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC34@2af004b]" name="verifyHomeLastNameEdit" duration-ms="9273" started-at="2024-02-19T23:45:29 EST" finished-at="2024-02-19T23:45:38 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Home page opened]]>
+            </line>
+            <line>
+              <![CDATA[User Detail button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Edit Profile button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[About Tab button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Last Name is cleared]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Last Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Edited Name saved]]>
+            </line>
+            <line>
+              <![CDATA[Edited Name saved]]>
+            </line>
+            <line>
+              <![CDATA[Edit Profile button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[About tab button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Last Name is cleared]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Last Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyHomeLastNameEdit -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC34@2af004b]" name="tearDownAfterTestMethod" is-config="true" duration-ms="621" started-at="2024-02-19T23:45:38 EST" finished-at="2024-02-19T23:45:38 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC34 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC12">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC12@2e8c1c9b]" name="setUpBeforeMethod" is-config="true" duration-ms="2371" started-at="2024-02-19T23:40:52 EST" finished-at="2024-02-19T23:40:54 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="EditNewAccountView()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC12@2e8c1c9b]" name="EditNewAccountView" duration-ms="15687" started-at="2024-02-19T23:40:54 EST" finished-at="2024-02-19T23:41:10 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Account Tab button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Account page opened]]>
+            </line>
+            <line>
+              <![CDATA[New Accounts View button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Accounts View page opened]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in New View Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Unique View Name is cleared]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Unqieue View Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Accounts View added]]>
+            </line>
+            <line>
+              <![CDATA[Edit View button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Edit Account View page opened]]>
+            </line>
+            <line>
+              <![CDATA[View Name is cleared]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in View Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Account Name selected in Account Name Filter dropdown]]>
+            </line>
+            <line>
+              <![CDATA[contains selected in Operator dropdown]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Filter Value textbox]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Accounts View Edited]]>
+            </line>
+            <line>
+              <![CDATA[Account view edited and filtered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EditNewAccountView -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC12@2e8c1c9b]" name="tearDownAfterTestMethod" is-config="true" duration-ms="695" started-at="2024-02-19T23:41:10 EST" finished-at="2024-02-19T23:41:11 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC12 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC33">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC33@27406a17]" name="setUpBeforeMethod" is-config="true" duration-ms="2019" started-at="2024-02-19T23:45:17 EST" finished-at="2024-02-19T23:45:19 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyHomePageUserName()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC33@27406a17]" name="verifyHomePageUserName" duration-ms="6706" started-at="2024-02-19T23:45:19 EST" finished-at="2024-02-19T23:45:26 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Home page opened]]>
+            </line>
+            <line>
+              <![CDATA[ text is extracted from User Details]]>
+            </line>
+            <line>
+              <![CDATA[User Details displayed]]>
+            </line>
+            <line>
+              <![CDATA[User Detail Link button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[User Details page opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageUserName -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC33@27406a17]" name="tearDownAfterTestMethod" is-config="true" duration-ms="622" started-at="2024-02-19T23:45:26 EST" finished-at="2024-02-19T23:45:26 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC33 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC11">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC11@76a4ebf2]" name="setUpBeforeMethod" is-config="true" duration-ms="8501" started-at="2024-02-19T23:40:38 EST" finished-at="2024-02-19T23:40:46 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="createNewAccountView()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC11@76a4ebf2]" name="createNewAccountView" duration-ms="5292" started-at="2024-02-19T23:40:46 EST" finished-at="2024-02-19T23:40:51 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Account Tab button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Account page opened]]>
+            </line>
+            <line>
+              <![CDATA[New Accounts View button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Accounts View page opened]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in New View Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Unique View Name is cleared]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Unqieue View Name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Account View Added]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createNewAccountView -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC11@76a4ebf2]" name="tearDownAfterTestMethod" is-config="true" duration-ms="652" started-at="2024-02-19T23:40:51 EST" finished-at="2024-02-19T23:40:52 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC11 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC18">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC18@6e9175d8]" name="setUpBeforeMethod" is-config="true" duration-ms="6620" started-at="2024-02-19T23:42:35 EST" finished-at="2024-02-19T23:42:42 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyStuckOpportunities()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC18@6e9175d8]" name="verifyStuckOpportunities" duration-ms="8748" started-at="2024-02-19T23:42:42 EST" finished-at="2024-02-19T23:42:51 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Opportunities page opened]]>
+            </line>
+            <line>
+              <![CDATA[Stuck Opportunity button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Stuck Opportunities page opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyStuckOpportunities -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC18@6e9175d8]" name="tearDownAfterTestMethod" is-config="true" duration-ms="607" started-at="2024-02-19T23:42:51 EST" finished-at="2024-02-19T23:42:51 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC18 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC17">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC17@78e4deb0]" name="setUpBeforeMethod" is-config="true" duration-ms="1972" started-at="2024-02-19T23:42:27 EST" finished-at="2024-02-19T23:42:29 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyOpportunityPipeline()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC17@78e4deb0]" name="verifyOpportunityPipeline" duration-ms="5793" started-at="2024-02-19T23:42:29 EST" finished-at="2024-02-19T23:42:35 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Opportunities page opened]]>
+            </line>
+            <line>
+              <![CDATA[Opportunity Pipeline button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Opportunity Pipeline page opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyOpportunityPipeline -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC17@78e4deb0]" name="tearDownAfterTestMethod" is-config="true" duration-ms="639" started-at="2024-02-19T23:42:35 EST" finished-at="2024-02-19T23:42:35 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC17 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC16">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC16@5b1669c0]" name="setUpBeforeMethod" is-config="true" duration-ms="2440" started-at="2024-02-19T23:42:18 EST" finished-at="2024-02-19T23:42:20 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="createNewOpportunity()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC16@5b1669c0]" name="createNewOpportunity" duration-ms="6677" started-at="2024-02-19T23:42:20 EST" finished-at="2024-02-19T23:42:27 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Opportunities page opened]]>
+            </line>
+            <line>
+              <![CDATA[New Opportunity button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Opportunity Page Opened]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Opportunity name textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Opportunity Account textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Opportunity Closed Date textbox]]>
+            </line>
+            <line>
+              <![CDATA[Proabablity is cleared]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in Proabablity textbox]]>
+            </line>
+            <line>
+              <![CDATA[Prospecting selected in Stage dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Web selected in Lead Source dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ text is extracted from New Opportiunity]]>
+            </line>
+            <line>
+              <![CDATA[New Opportunity Verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createNewOpportunity -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC16@5b1669c0]" name="tearDownAfterTestMethod" is-config="true" duration-ms="0" started-at="2024-02-19T23:42:27 EST" finished-at="2024-02-19T23:42:27 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC16 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC37">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC37@793f29ff]" name="setUpBeforeMethod" is-config="true" duration-ms="3090" started-at="2024-02-19T23:46:51 EST" finished-at="2024-02-19T23:46:54 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyCalendarEventBlock()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC37@793f29ff]" name="verifyCalendarEventBlock" duration-ms="39971" started-at="2024-02-19T23:46:54 EST" finished-at="2024-02-19T23:47:34 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Home page opened]]>
+            </line>
+            <line>
+              <![CDATA[Current Date on Home page verified]]>
+            </line>
+            <line>
+              <![CDATA[Page Date button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Calendar Page Opened]]>
+            </line>
+            <line>
+              <![CDATA[4 Pm Event button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Calendar New Event Page Opened]]>
+            </line>
+            <line>
+              <![CDATA[Subject Combo button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ComboBox Page Opened]]>
+            </line>
+            <line>
+              <![CDATA[Other Subject button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ComboBox subject popup closed as expected]]>
+            </line>
+            <line>
+              <![CDATA[Other selected as subject as expected]]>
+            </line>
+            <line>
+              <![CDATA[End Time button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[drop down for time pick for end time displayed]]>
+            </line>
+            <line>
+              <![CDATA[7 PM Event button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[End time selected as 7:00 PM]]>
+            </line>
+            <line>
+              <![CDATA[Recurrence button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Frequency section with radio buttons displayed]]>
+            </line>
+            <line>
+              <![CDATA[Recurrence start date field displayed]]>
+            </line>
+            <line>
+              <![CDATA[Recurrence end date field displayed]]>
+            </line>
+            <line>
+              <![CDATA[Weekly button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Recurs every field displayed]]>
+            </line>
+            <line>
+              <![CDATA[Recurs every field displayed with 1 as default]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in recurrent end date textbox]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Calendar for bhumi pawde Page Opened]]>
+            </line>
+            <line>
+              <![CDATA[New Event Other for Calendar added]]>
+            </line>
+            <line>
+              <![CDATA[Monthly button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[New Event Other for Calendar in monthly view]]>
+            </line>
+            <line>
+              <![CDATA[NewEvent button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[View Series button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[NewEvent button is clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyCalendarEventBlock -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC37@793f29ff]" name="tearDownAfterTestMethod" is-config="true" duration-ms="644" started-at="2024-02-19T23:47:34 EST" finished-at="2024-02-19T23:47:34 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC37 -->
+      <class name="com.bhumi.SampleMaven.AutomationTests.TC15">
+        <test-method status="PASS" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC15@1530c739]" name="setUpBeforeMethod" is-config="true" duration-ms="1954" started-at="2024-02-19T23:42:11 EST" finished-at="2024-02-19T23:42:13 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://login.salesforce.comis entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="verifyOpportunityDropDown()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC15@1530c739]" name="verifyOpportunityDropDown" duration-ms="4216" started-at="2024-02-19T23:42:13 EST" finished-at="2024-02-19T23:42:17 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName & Password and login to salesforce]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[data is entered in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[login button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Opportunities page opened]]>
+            </line>
+            <line>
+              <![CDATA[Opportunity Drop Down options verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyOpportunityDropDown -->
+        <test-method status="PASS" signature="tearDownAfterTestMethod()[pri:0, instance:com.bhumi.SampleMaven.AutomationTests.TC15@1530c739]" name="tearDownAfterTestMethod" is-config="true" duration-ms="596" started-at="2024-02-19T23:42:17 EST" finished-at="2024-02-19T23:42:18 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[browser instance closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.bhumi.SampleMaven.AutomationTests.TC15 -->
+    </test> <!-- RegressionTest -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>

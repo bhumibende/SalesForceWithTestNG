@@ -1,0 +1,1096 @@
+<html>
+<head>
+<title>TestNG:  RegressionTest</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>RegressionTest</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>37/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Feb 19 23:37:57 EST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>577 seconds (577078 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC01.loginErrorMessage1()'><b>loginErrorMessage1</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC01<br/>
+<a href="#Output-2052814491" onClick='toggleBox("Output-2052814491", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2052814491" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2052814491">
+Page Title Verified<br/>
+data is entered in usernName textbox<br/>
+UserName Field Verified<br/>
+Password is cleared<br/>
+UserName Field is clear Verified<br/>
+LoginButton button is clicked<br/>
+Error for blank password Verified<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC01@4a883b15</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC06.verifyMyProfile()'><b>verifyMyProfile</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC06<br/>
+<a href="#Output-1134599394" onClick='toggleBox("Output-1134599394", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1134599394" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1134599394">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+SalesForce User Menu button is clicked<br/>
+SalesForce User Menu Drop Down options verified<br/>
+My Profile Menu button is clicked<br/>
+My Profile Page displayed after clicking My Profile Menu<br/>
+Edit button is clicked<br/>
+Edit Profile  button is clicked<br/>
+Edit Profile pop up displayed after clicking Edit Profile button<br/>
+About Me button is clicked<br/>
+About Tab on Edit Profile pop up button is clicked<br/>
+Last Name field is cleared<br/>
+data is entered in Last Name Field textbox<br/>
+Save on Edit Profile pop up button is clicked<br/>
+ text is extracted from Last Name on My Profile page<br/>
+Last Name updated from edit profile popup<br/>
+Post Comment  button is clicked<br/>
+Send Post Comment  button is clicked<br/>
+data is entered in Send Post Comment Text textbox<br/>
+Share Post button is clicked<br/>
+ text is extracted from Feed Text<br/>
+Feed Text Verified<br/>
+User File button is clicked<br/>
+User File Upload button is clicked<br/>
+data is entered in Upload File textbox<br/>
+Share Post button is clicked<br/>
+Uploaded File is Verified<br/>
+Upload Photo button is clicked<br/>
+data is entered in Photo Path textbox<br/>
+Save Photo Button button is clicked<br/>
+</div>
+</td>
+<td></td>
+<td>23</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC06@1ed4ae0f</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC27.verifyRecentContactDropDown()'><b>verifyRecentContactDropDown</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC27<br/>
+<a href="#Output-57964663" onClick='toggleBox("Output-57964663", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-57964663" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-57964663">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Recently Created selected in Recent Contact dropdown<br/>
+Recent Contact drop down verified<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC27@69e153c5</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC10.createAccount()'><b>createAccount</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC10<br/>
+<a href="#Output-1561651614" onClick='toggleBox("Output-1561651614", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1561651614" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1561651614">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Account Tab button is clicked<br/>
+Account page opened<br/>
+New Account button is clicked<br/>
+New Account page opened<br/>
+data is entered in Account Name textbox<br/>
+Technology Partner selected in Account Type dropdown<br/>
+High selected in Priority dropdown<br/>
+Save button is clicked<br/>
+New Account added<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC10@6892b3b6</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC05.verifySalesforceUserMenu()'><b>verifySalesforceUserMenu</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC05<br/>
+<a href="#Output-1792109661" onClick='toggleBox("Output-1792109661", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1792109661" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1792109661">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+SalesForce User Menu button is clicked<br/>
+SalesForce User Menu Drop Down options verified<br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC05@7526515b</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC18.verifyStuckOpportunities()'><b>verifyStuckOpportunities</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC18<br/>
+<a href="#Output-889633931" onClick='toggleBox("Output-889633931", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-889633931" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-889633931">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Opportunities page opened<br/>
+Stuck Opportunity button is clicked<br/>
+Stuck Opportunities page opened<br/>
+</div>
+</td>
+<td></td>
+<td>8</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC18@6e9175d8</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC14.CreateAccountsReport()'><b>CreateAccountsReport</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC14<br/>
+<a href="#Output-1914077784" onClick='toggleBox("Output-1914077784", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1914077784" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1914077784">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Account Tab button is clicked<br/>
+Account page opened<br/>
+Last Activity Link button is clicked<br/>
+Unsaved Report page opened<br/>
+Date Option button is clicked<br/>
+Created Date Option button is clicked<br/>
+data is entered in Start Date textbox<br/>
+End Date button is clicked<br/>
+Today End Date button is clicked<br/>
+ text is extracted from Report Name<br/>
+Report Data Displayed<br/>
+Save Report button is clicked<br/>
+data is entered in Report Name textbox<br/>
+Report Description button is clicked<br/>
+Save Report button is clicked<br/>
+ text is extracted from Saved Report<br/>
+Report  Saved with correct name<br/>
+</div>
+</td>
+<td></td>
+<td>40</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC14@449a4f23</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC20.verifyLeadsPage()'><b>verifyLeadsPage</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC20<br/>
+<a href="#Output-1209802386" onClick='toggleBox("Output-1209802386", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1209802386" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1209802386">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Leads page opened<br/>
+User Menu on Salesforce HomePage button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Logout on Salesforce HomePage button is clicked<br/>
+Logout Successfull<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC20@15bb5034</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC09.verifyLogout()'><b>verifyLogout</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC09<br/>
+<a href="#Output-940938116" onClick='toggleBox("Output-940938116", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-940938116" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-940938116">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+User Menu on Salesforce HomePage button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Logout on Salesforce HomePage button is clicked<br/>
+Logout Successfull<br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC09@11392934</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC35.verifyTabCustomize()'><b>verifyTabCustomize</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC35<br/>
+<a href="#Output-258264629" onClick='toggleBox("Output-258264629", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-258264629" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-258264629">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Home page opened<br/>
+All Tabs button is clicked<br/>
+Customize button is clicked<br/>
+User Menu on Salesforce HomePage button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Logout on Salesforce HomePage button is clicked<br/>
+Logout Successfull<br/>
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Accounts tab removed<br/>
+All Tabs button is clicked<br/>
+Customize button is clicked<br/>
+Accounts selected to be added to Salesforce menu<br/>
+Add Cutomize Menu button is clicked<br/>
+Save Customize Menu button is clicked<br/>
+User Menu on Salesforce HomePage button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Logout on Salesforce HomePage button is clicked<br/>
+Logout Successfull<br/>
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Account_Tab added to Salesforce menu<br/>
+</div>
+</td>
+<td></td>
+<td>47</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC35@248e319b</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC10a.verifyAccountTab()'><b>verifyAccountTab</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC10a<br/>
+<a href="#Output-1248201524" onClick='toggleBox("Output-1248201524", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1248201524" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1248201524">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+All Tabs button is clicked<br/>
+Customize button is clicked<br/>
+Accounts selected to be removed from  Salesforce menu<br/>
+Remove Cutomize Menu button is clicked<br/>
+Accounts selected to be added to Salesforce menu<br/>
+Add Cutomize Menu button is clicked<br/>
+Save Customize Menu button is clicked<br/>
+User Menu on Salesforce HomePage button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Logout on Salesforce HomePage button is clicked<br/>
+Logout Successfull<br/>
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Account_Tab added to Salesforce menu<br/>
+</div>
+</td>
+<td></td>
+<td>42</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC10a@6e6f2380</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC12.EditNewAccountView()'><b>EditNewAccountView</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC12<br/>
+<a href="#Output-43787342" onClick='toggleBox("Output-43787342", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-43787342" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-43787342">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Account Tab button is clicked<br/>
+Account page opened<br/>
+New Accounts View button is clicked<br/>
+New Accounts View page opened<br/>
+data is entered in New View Name textbox<br/>
+Unique View Name is cleared<br/>
+data is entered in Unqieue View Name textbox<br/>
+Save button is clicked<br/>
+New Accounts View added<br/>
+Edit View button is clicked<br/>
+Edit Account View page opened<br/>
+View Name is cleared<br/>
+data is entered in View Name textbox<br/>
+Account Name selected in Account Name Filter dropdown<br/>
+contains selected in Operator dropdown<br/>
+data is entered in Filter Value textbox<br/>
+Save button is clicked<br/>
+New Accounts View Edited<br/>
+Account view edited and filtered<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC12@2e8c1c9b</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC11.createNewAccountView()'><b>createNewAccountView</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC11<br/>
+<a href="#Output-251546027" onClick='toggleBox("Output-251546027", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-251546027" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-251546027">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Account Tab button is clicked<br/>
+Account page opened<br/>
+New Accounts View button is clicked<br/>
+New Accounts View page opened<br/>
+data is entered in New View Name textbox<br/>
+Unique View Name is cleared<br/>
+data is entered in Unqieue View Name textbox<br/>
+Save button is clicked<br/>
+New Account View Added<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC11@76a4ebf2</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC16.createNewOpportunity()'><b>createNewOpportunity</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC16<br/>
+<a href="#Output-1108976844" onClick='toggleBox("Output-1108976844", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1108976844" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1108976844">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Opportunities page opened<br/>
+New Opportunity button is clicked<br/>
+New Opportunity Page Opened<br/>
+data is entered in Opportunity name textbox<br/>
+data is entered in Opportunity Account textbox<br/>
+data is entered in Opportunity Closed Date textbox<br/>
+Proabablity is cleared<br/>
+data is entered in Proabablity textbox<br/>
+Prospecting selected in Stage dropdown<br/>
+Web selected in Lead Source dropdown<br/>
+Save button is clicked<br/>
+ text is extracted from New Opportiunity<br/>
+New Opportunity Verified<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC16@5b1669c0</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC03.loginErrorMessage3()'><b>loginErrorMessage3</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC03<br/>
+<a href="#Output-848961421" onClick='toggleBox("Output-848961421", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-848961421" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-848961421">
+Page Title Verified<br/>
+data is entered in username textbox<br/>
+UserName entered on login page<br/>
+data is entered in password textbox<br/>
+Password entered on login page<br/>
+Remember UserName checkbox button is clicked<br/>
+Remember UserName Checkbox on login page checked<br/>
+loginbutton button is clicked<br/>
+Login Button Clicked<br/>
+Login Successfull<br/>
+User Menu on Salesforce HomePage button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Logout on Salesforce HomePage button is clicked<br/>
+Logout Successfull<br/>
+ text is extracted from UserName<br/>
+Remember username verified post logout<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC03@644baf4a</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC31.CancelNewContact()'><b>CancelNewContact</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC31<br/>
+<a href="#Output-1088692478" onClick='toggleBox("Output-1088692478", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1088692478" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1088692478">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+New View button is clicked<br/>
+Create New View opened<br/>
+data is entered in View Name textbox<br/>
+Unique view name is cleared<br/>
+data is entered in View Name textbox<br/>
+Cancel button is clicked<br/>
+View not added after clicking cancel button<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC31@17f62e33</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC19.verifyOpportunityReport()'><b>verifyOpportunityReport</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC19<br/>
+<a href="#Output-1144743781" onClick='toggleBox("Output-1144743781", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1144743781" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1144743781">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Opportunities page opened<br/>
+Current FQ selected in Interval dropdown<br/>
+All Opportunities selected in Include dropdown<br/>
+Run Report button is clicked<br/>
+Opportunities Report page opened<br/>
+Opporunity Report opened with correct Range<br/>
+Opporunity Report opened with correct status<br/>
+Current FQ selected in Interval dropdown<br/>
+Open Opportunities selected in Include dropdown<br/>
+Run Report button is clicked<br/>
+Opportunities Report page opened<br/>
+Opporunity Report opened with correct Range<br/>
+Opporunity Report opened with correct status<br/>
+Next FQ selected in Interval dropdown<br/>
+Closed Opportunities selected in Include dropdown<br/>
+Run Report button is clicked<br/>
+Opportunities Report page opened<br/>
+Opporunity Report opened with correct Range<br/>
+Opporunity Report opened with correct status<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC19@7d0b7e3c</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC23.verifyTodaysList()'><b>verifyTodaysList</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC23<br/>
+<a href="#Output-788557535" onClick='toggleBox("Output-788557535", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-788557535" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-788557535">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Leads page opened<br/>
+Today's Leads selected in Leads View dropdown<br/>
+Leads drop down selected<br/>
+User Menu on Salesforce HomePage button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Logout on Salesforce HomePage button is clicked<br/>
+Logout Successfull<br/>
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Go button is clicked<br/>
+Today's Leads  selected in view after login<br/>
+User Menu on Salesforce HomePage button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Logout on Salesforce HomePage button is clicked<br/>
+Logout Successfull<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC23@8f2ef19</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC30.verifyNewContactRequiredFieldError()'><b>verifyNewContactRequiredFieldError</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC30<br/>
+<a href="#Output-506635245" onClick='toggleBox("Output-506635245", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-506635245" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-506635245">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+New View button is clicked<br/>
+Create New View opened<br/>
+Unique view name is cleared<br/>
+data is entered in View Name textbox<br/>
+Save button is clicked<br/>
+ text is extracted from Error<br/>
+Error for required field verified<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC30@74ea2410</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC33.verifyHomePageUserName()'><b>verifyHomePageUserName</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC33<br/>
+<a href="#Output-1657458920" onClick='toggleBox("Output-1657458920", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1657458920" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1657458920">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Home page opened<br/>
+ text is extracted from User Details<br/>
+User Details displayed<br/>
+User Detail Link button is clicked<br/>
+User Details page opened<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC33@27406a17</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC36.verifyCalendarEventBlock()'><b>verifyCalendarEventBlock</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC36<br/>
+<a href="#Output-1368566708" onClick='toggleBox("Output-1368566708", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1368566708" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1368566708">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Home page opened<br/>
+Current Date on Home page verified<br/>
+Page Date button is clicked<br/>
+Calendar Page Opened<br/>
+8 Pm Event button is clicked<br/>
+Calendar New Event Page Opened<br/>
+Subject Combo button is clicked<br/>
+ComboBox Page Opened<br/>
+Other Subject button is clicked<br/>
+ComboBox subject popup closed as expected<br/>
+Other selected as subject as expected<br/>
+data is entered in Subject textbox<br/>
+End Time button is clicked<br/>
+drop down for time pick for end time displayed<br/>
+9 PM Event button is clicked<br/>
+End time selected as 9:00 PM<br/>
+Save button is clicked<br/>
+Calendar for bhumi pawde Page Opened<br/>
+New Event Other for Calendar added<br/>
+</div>
+</td>
+<td></td>
+<td>19</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC36@5d0bf09b</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC25.createNewContacts()'><b>createNewContacts</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC25<br/>
+<a href="#Output-1233911532" onClick='toggleBox("Output-1233911532", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1233911532" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1233911532">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Contact page opened<br/>
+New Contacts button is clicked<br/>
+New Contact page opened<br/>
+data is entered in Last Name textbox<br/>
+data is entered in Account textbox<br/>
+Save button is clicked<br/>
+ text is extracted from New Contact value<br/>
+New Contact created<br/>
+User Menu on Salesforce HomePage button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Logout on Salesforce HomePage button is clicked<br/>
+Logout Successfull<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC25@2cf3d63b</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC13.MergeAccounts()'><b>MergeAccounts</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC13<br/>
+<a href="#Output-817707477" onClick='toggleBox("Output-817707477", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-817707477" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-817707477">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Account Tab button is clicked<br/>
+Account page opened<br/>
+Merge Account button is clicked<br/>
+Merge My Account page opened<br/>
+data is entered in Search textbox<br/>
+Find Account button is clicked<br/>
+Find Account button is clicked<br/>
+Find Account button is clicked<br/>
+Find Account button is clicked<br/>
+Find Account button is clicked<br/>
+Next button is clicked<br/>
+Confirmation page to merge record displayed<br/>
+Merge button is clicked<br/>
+Merge Account displayed<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC13@53fe15ff</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC26.createContactView()'><b>createContactView</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC26<br/>
+<a href="#Output-1727565779" onClick='toggleBox("Output-1727565779", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1727565779" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1727565779">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+New Contact View button is clicked<br/>
+New Contact View page opened<br/>
+data is entered in New View Name textbox<br/>
+Unique View Name is cleared<br/>
+data is entered in Unqieue View Name textbox<br/>
+Save button is clicked<br/>
+New Contact View Added<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC26@7674f035</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC34.verifyHomeLastNameEdit()'><b>verifyHomeLastNameEdit</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC34<br/>
+<a href="#Output-1689704157" onClick='toggleBox("Output-1689704157", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1689704157" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1689704157">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Home page opened<br/>
+User Detail button is clicked<br/>
+Edit Profile button is clicked<br/>
+About Tab button is clicked<br/>
+Last Name is cleared<br/>
+data is entered in Last Name textbox<br/>
+Save button is clicked<br/>
+Edited Name saved<br/>
+Edited Name saved<br/>
+Edit Profile button is clicked<br/>
+About tab button is clicked<br/>
+Last Name is cleared<br/>
+data is entered in Last Name textbox<br/>
+Save button is clicked<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC34@2af004b</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC07.verifyMySettings()'><b>verifyMySettings</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC07<br/>
+<a href="#Output-1430104337" onClick='toggleBox("Output-1430104337", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1430104337" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1430104337">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+SalesForce User Menu button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+My Setting button is clicked<br/>
+Settings Page Displayed<br/>
+Personal Menu button is clicked<br/>
+Login History button is clicked<br/>
+Login History Page Displayed<br/>
+Download Login History button is clicked<br/>
+File Download verified<br/>
+Display Layout button is clicked<br/>
+Customize tab button is clicked<br/>
+Salesforce Chatter selected in Custom App dropdown<br/>
+Reports selected in Custom App tab dropdown<br/>
+Add button is clicked<br/>
+Reports Tab Selected<br/>
+Email tab button is clicked<br/>
+My Email Settings button is clicked<br/>
+Email name is cleared<br/>
+Email Id is cleared<br/>
+Auto BCC button is clicked<br/>
+data is entered in Email Name textbox<br/>
+data is entered in Email id textbox<br/>
+Auto BCC Yes button is clicked<br/>
+Save button is clicked<br/>
+Save confirmation on email setting verified<br/>
+Calendar Reminder button is clicked<br/>
+Activity Reminder button is clicked<br/>
+Test reminder button is clicked<br/>
+Reminder Screen Displayed<br/>
+</div>
+</td>
+<td></td>
+<td>24</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC07@54c5a2ff</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC29.getContactDetails()'><b>getContactDetails</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC29<br/>
+<a href="#Output-1548037737" onClick='toggleBox("Output-1548037737", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1548037737" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1548037737">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Recently Created selected in Recent Contact dropdown<br/>
+Recent Contact link button is clicked<br/>
+Contact Details opened<br/>
+ text is extracted from New Contact Value<br/>
+Contact Details opened with correct details<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC29@25ce9dc4</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC17.verifyOpportunityPipeline()'><b>verifyOpportunityPipeline</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC17<br/>
+<a href="#Output-374875381" onClick='toggleBox("Output-374875381", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-374875381" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-374875381">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Opportunities page opened<br/>
+Opportunity Pipeline button is clicked<br/>
+Opportunity Pipeline page opened<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC17@78e4deb0</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC15.verifyOpportunityDropDown()'><b>verifyOpportunityDropDown</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC15<br/>
+<a href="#Output-665204811" onClick='toggleBox("Output-665204811", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-665204811" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-665204811">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Opportunities page opened<br/>
+Opportunity Drop Down options verified<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC15@1530c739</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC22.verifyLeadsList()'><b>verifyLeadsList</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC22<br/>
+<a href="#Output-494865616" onClick='toggleBox("Output-494865616", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-494865616" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-494865616">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Leads page opened<br/>
+My Unread Leads selected in Leads View dropdown<br/>
+Leads drop down selected<br/>
+User Menu on Salesforce HomePage button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Logout on Salesforce HomePage button is clicked<br/>
+Logout Successfull<br/>
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+My Unread leads selected in view after login<br/>
+Go button is clicked<br/>
+My Unread leads selected in view after login<br/>
+User Menu on Salesforce HomePage button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Logout on Salesforce HomePage button is clicked<br/>
+Logout Successfull<br/>
+</div>
+</td>
+<td></td>
+<td>8</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC22@2eae8e6e</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC28.verifyMyContacts()'><b>verifyMyContacts</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC28<br/>
+<a href="#Output-206889531" onClick='toggleBox("Output-206889531", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-206889531" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-206889531">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+My Contacts selected in Contact View dropdown<br/>
+User Menu on Salesforce HomePage button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Logout on Salesforce HomePage button is clicked<br/>
+Logout Successfull<br/>
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Go button is clicked<br/>
+My Contacts View Added<br/>
+</div>
+</td>
+<td></td>
+<td>13</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC28@173ed316</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC32.verifyNewContactsaveandnew()'><b>verifyNewContactsaveandnew</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC32<br/>
+<a href="#Output-1771413157" onClick='toggleBox("Output-1771413157", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1771413157" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1771413157">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Contact page opened<br/>
+New Contacts button is clicked<br/>
+New Contact page opened<br/>
+data is entered in Last Name textbox<br/>
+data is entered in Account textbox<br/>
+Save and New button is clicked<br/>
+New Contact page opened<br/>
+Cancel button is clicked<br/>
+ text is extracted from New Contact value<br/>
+New Contact created<br/>
+</div>
+</td>
+<td></td>
+<td>7</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC32@76b1e9b8</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC24.createNewLeads()'><b>createNewLeads</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC24<br/>
+<a href="#Output-941889045" onClick='toggleBox("Output-941889045", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-941889045" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-941889045">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Leads page opened<br/>
+New Leads button is clicked<br/>
+New Leads page opened<br/>
+data is entered in Last Name textbox<br/>
+data is entered in Company textbox<br/>
+Save button is clicked<br/>
+ text is extracted from New lead value<br/>
+New Leads added<br/>
+User Menu on Salesforce HomePage button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Logout on Salesforce HomePage button is clicked<br/>
+Logout Successfull<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC24@470734c3</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC37.verifyCalendarEventBlock()'><b>verifyCalendarEventBlock</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC37<br/>
+<a href="#Output-205122511" onClick='toggleBox("Output-205122511", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-205122511" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-205122511">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Home page opened<br/>
+Current Date on Home page verified<br/>
+Page Date button is clicked<br/>
+Calendar Page Opened<br/>
+4 Pm Event button is clicked<br/>
+Calendar New Event Page Opened<br/>
+Subject Combo button is clicked<br/>
+ComboBox Page Opened<br/>
+Other Subject button is clicked<br/>
+ComboBox subject popup closed as expected<br/>
+Other selected as subject as expected<br/>
+End Time button is clicked<br/>
+drop down for time pick for end time displayed<br/>
+7 PM Event button is clicked<br/>
+End time selected as 7:00 PM<br/>
+Recurrence button is clicked<br/>
+Frequency section with radio buttons displayed<br/>
+Recurrence start date field displayed<br/>
+Recurrence end date field displayed<br/>
+Weekly button is clicked<br/>
+Recurs every field displayed<br/>
+Recurs every field displayed with 1 as default<br/>
+data is entered in recurrent end date textbox<br/>
+Save button is clicked<br/>
+Calendar for bhumi pawde Page Opened<br/>
+New Event Other for Calendar added<br/>
+Monthly button is clicked<br/>
+New Event Other for Calendar in monthly view<br/>
+NewEvent button is clicked<br/>
+View Series button is clicked<br/>
+NewEvent button is clicked<br/>
+</div>
+</td>
+<td></td>
+<td>39</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC37@793f29ff</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC21.verifyLeadsViewDropDown()'><b>verifyLeadsViewDropDown</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC21<br/>
+<a href="#Output-472146846" onClick='toggleBox("Output-472146846", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-472146846" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-472146846">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+Leads page opened<br/>
+Leads view drop down options verified<br/>
+User Menu on Salesforce HomePage button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Logout on Salesforce HomePage button is clicked<br/>
+Logout Successfull<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC21@4b741d6d</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC08.verifyDevConsole()'><b>verifyDevConsole</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC08<br/>
+<a href="#Output-758201484" onClick='toggleBox("Output-758201484", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-758201484" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-758201484">
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+SalesForce User Menu button is clicked<br/>
+Salesforce User Menu Displayed<br/>
+Devleoper console button is clicked<br/>
+Developer console opened as expected<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC08@6d4d66d2</td></tr>
+<tr>
+<td title='com.bhumi.SampleMaven.AutomationTests.TC02.loginErrorMessage2()'><b>loginErrorMessage2</b><br>Test class: com.bhumi.SampleMaven.AutomationTests.TC02<br/>
+<a href="#Output-1706453768" onClick='toggleBox("Output-1706453768", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1706453768" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1706453768">
+Page Title Verified<br/>
+Entering UserName & Password and login to salesforce<br/>
+data is entered in username textbox<br/>
+data is entered in password textbox<br/>
+login button is clicked<br/>
+Login Successfull<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.bhumi.SampleMaven.AutomationTests.TC02@26d9b808</td></tr>
+</table><p>
+</body>
+</html>
